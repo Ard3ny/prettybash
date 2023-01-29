@@ -1,2 +1,2 @@
 # prettybash
-Script for automatic deployment of terminator with bash, nvim (custom configs)
+Trimmed version of titus/mybash script  for automating custom bash deployment. Added terminator, fonts, vim-plug, nvim (custom configs)
